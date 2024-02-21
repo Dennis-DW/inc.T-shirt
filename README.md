@@ -12,7 +12,7 @@ This template provides a minimal setup to quickly set up a React application wit
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repo
+   cd T-shirt
    ```
 
 3. **Install Dependencies:**
