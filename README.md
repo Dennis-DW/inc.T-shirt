@@ -7,7 +7,7 @@ This template provides a minimal setup to quickly set up a React application wit
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Dennis-DW/inc.T-shirt.git
    ```
 
 2. **Navigate to the Project Directory:**
